@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is the backend folder for the pern stack full application",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "jasmine "
+  },
+  "repository": {
+    "type": "git",
+    "url": "pern-practice "
+  },
+  "author": "Thabo Siphiwe Mngoma",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}

@@ -1,0 +1,3 @@
+### GET TODOS  
+
+GET http://localhost:3005/api/todos
